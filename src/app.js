@@ -1,7 +1,7 @@
 import express from 'express';
 import ProductManager from './managers/ProductManager.js';
 
-const PORT = 8081
+const PORT = 8080
 
 const app = express();
 
